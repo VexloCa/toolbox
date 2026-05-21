@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **1 master prompt**.
+Currently in the box: **2 master prompts**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -13,6 +13,12 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | Prompt | Difficulty | What you get |
 | --- | --- | --- |
 | [SOP Writer: AI SOP Generator for Small Business](prompts/operations/sop-writer.md) | No-code | Turn "how I do it" into documentation anyone can follow |
+
+### HR & Hiring
+
+| Prompt | Difficulty | What you get |
+| --- | --- | --- |
+| [Job Description Writer](prompts/hr/job-description-writer.md) | No-code | Write job posts that attract doers, not title collectors |
 
 ## About Vexlo
 
