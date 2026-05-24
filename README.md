@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **3 master prompts**.
+Currently in the box: **3 master prompts, 1 agent skill**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -25,6 +25,12 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | Prompt | Difficulty | What you get |
 | --- | --- | --- |
 | [Job Description Writer](prompts/hr/job-description-writer.md) | No-code | Write job posts that attract doers, not title collectors |
+
+## Agent skills
+
+| Agent skill | Category | What you get |
+| --- | --- | --- |
+| [Customer Support Autopilot](skills/customer-support-autopilot/README.md) | Customer Support | Answer 80% of support emails in your brand voice |
 
 ## About Vexlo
 
