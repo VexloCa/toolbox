@@ -2,11 +2,17 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **3 master prompts, 1 agent skill**.
+Currently in the box: **4 master prompts, 1 agent skill**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
 ## Master prompts
+
+### Sales & Lead Generation
+
+| Prompt | Difficulty | What you get |
+| --- | --- | --- |
+| [Objection Handling Playbook](prompts/sales/objection-handling-playbook.md) | No-code | Build responses to your 10 toughest objections |
 
 ### Operations & Productivity
 
