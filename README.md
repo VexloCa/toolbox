@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **7 master prompts, 1 agent skill, 1 workflow**.
+Currently in the box: **8 master prompts, 1 agent skill, 1 workflow**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -21,6 +21,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | --- | --- | --- |
 | [Project Brief Builder](prompts/operations/project-brief-builder.md) | No-code | Scope any project before kickoff: goals, risks, owners |
 | [SOP Writer: AI SOP Generator for Small Business](prompts/operations/sop-writer.md) | No-code | Turn "how I do it" into documentation anyone can follow |
+| [Weekly Report Automator: AI Weekly Report Generator](prompts/operations/weekly-report-automator.md) | No-code | Compile scattered updates into one clean weekly report |
 
 ### Finance & Admin
 
