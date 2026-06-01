@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **12 master prompts, 1 agent skill, 1 workflow**.
+Currently in the box: **13 master prompts, 1 agent skill, 1 workflow**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -13,6 +13,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | Prompt | Difficulty | What you get |
 | --- | --- | --- |
 | [High-Converting Ad Copy Generator](prompts/marketing/ad-copy-generator.md) | No-code | Produce 10 ad variants for Google & Meta in minutes |
+| [Email Campaign Builder](prompts/marketing/email-campaign-builder.md) | No-code | Write a 5-email campaign that sounds like you |
 
 ### Sales & Lead Generation
 
