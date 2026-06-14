@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **25 master prompts, 1 agent skill, 2 workflows**.
+Currently in the box: **26 master prompts, 1 agent skill, 2 workflows**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -62,6 +62,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Job Description Writer](prompts/hr/job-description-writer.md) | No-code | Write job posts that attract doers, not title collectors |
 | [Performance Review Helper](prompts/hr/performance-review-helper.md) | No-code | Turn scattered observations into fair, specific reviews |
 | [Resume Screener](prompts/hr/resume-screener.md) | No-code | Screen 50 resumes against your real requirements in minutes |
+| [Tough Conversation Scripts](prompts/hr/tough-conversation-scripts.md) | No-code | Prepare for raises, PIPs, and lettings-go with a script |
 
 ## Agent skills
 
