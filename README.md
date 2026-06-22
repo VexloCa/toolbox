@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **34 master prompts, 1 agent skill, 2 workflows, 1 tool stack**.
+Currently in the box: **35 master prompts, 1 agent skill, 2 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -54,6 +54,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | --- | --- | --- |
 | [Simple Budget Planner](prompts/finance/budget-planner.md) | No-code | Build a realistic annual budget from last year's numbers |
 | [Cash Flow Analyzer](prompts/finance/cash-flow-analyzer.md) | No-code | Understand your cash position and 90-day runway in plain English |
+| [Expense Categorizer](prompts/finance/expense-categorizer.md) | No-code | Clean up a messy expense export for your bookkeeper |
 | [Financial Jargon Translator](prompts/finance/financial-jargon-translator.md) | No-code | Understand any contract, statement, or bank letter |
 | [Invoice Chaser Sequences](prompts/finance/invoice-chaser.md) | No-code | Get overdue invoices paid without burning relationships |
 | [Pricing Strategy Advisor](prompts/finance/pricing-strategy-advisor.md) | No-code | Pressure-test your pricing and find money you're leaving behind |
