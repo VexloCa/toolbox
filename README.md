@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **37 master prompts, 1 agent skill, 2 workflows, 1 tool stack**.
+Currently in the box: **37 master prompts, 1 agent skill, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -90,6 +90,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 
 | Workflow | Category | What you get |
 | --- | --- | --- |
+| [Annual Planning Workshop](workflows/annual-planning-workshop.md) | Strategy & Planning | Run a one-day annual planning session: solo or with your team |
 | [LinkedIn Founder-Brand Engine](workflows/linkedin-sales-engine.md) | Sales & Lead Generation | Generate inbound leads from 3 LinkedIn posts a week |
 | [SEO Blog Post Engine](workflows/seo-blog-engine.md) | Marketing & Content | Publish search-ranking blog posts weekly without a writer |
 
