@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **37 master prompts, 1 agent skill, 3 workflows, 1 tool stack**.
+Currently in the box: **38 master prompts, 1 agent skill, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -43,6 +43,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 
 | Prompt | Difficulty | What you get |
 | --- | --- | --- |
+| [Email Inbox Triage System](prompts/operations/inbox-triage-system.md) | Light setup | Process 100 emails in 15 minutes with AI triage |
 | [Meeting Notes to Action Items: AI Action Item Extractor](prompts/operations/meeting-notes-to-actions.md) | No-code | Turn raw meeting notes into action items with owners and deadlines |
 | [Project Brief Builder](prompts/operations/project-brief-builder.md) | No-code | Scope any project before kickoff: goals, risks, owners |
 | [SOP Writer: AI SOP Generator for Small Business](prompts/operations/sop-writer.md) | No-code | Turn "how I do it" into documentation anyone can follow |
