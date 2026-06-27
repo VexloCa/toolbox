@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **40 master prompts, 1 agent skill, 3 workflows, 1 tool stack**.
+Currently in the box: **40 master prompts, 2 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -88,6 +88,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | Agent skill | Category | What you get |
 | --- | --- | --- |
 | [Customer Support Autopilot](skills/customer-support-autopilot/README.md) | Customer Support | Answer 80% of support emails in your brand voice |
+| [Website Design Studio](skills/website-design-studio/README.md) | Marketing & Content | Plan, write, and review a website that actually converts |
 
 ## Workflows
 
