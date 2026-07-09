@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **44 master prompts, 11 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **45 master prompts, 11 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -86,6 +86,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Quarterly Goals (OKR) Builder](prompts/strategy/quarterly-okr-builder.md) | No-code | Set 90-day goals your team can actually execute |
 | [SWOT That Isn't Useless](prompts/strategy/swot-that-isnt-useless.md) | No-code | A SWOT analysis that ends in actions, not a poster |
 | [Partnership Evaluator](prompts/strategy/partnership-evaluator.md) | No-code | Know if the partnership is worth it before the handshake |
+| [Pricing Experiment Designer](prompts/strategy/pricing-experiment-designer.md) | No-code | Test a price change without betting the business |
 
 ## Agent skills
 
