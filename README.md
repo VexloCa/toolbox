@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **61 master prompts, 13 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **62 master prompts, 13 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -18,6 +18,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Competitor Teardown](prompts/marketing/competitor-teardown.md) | No-code | Map a competitor's strategy, gaps, and your counter-moves |
 | [Email Campaign Builder](prompts/marketing/email-campaign-builder.md) | No-code | Write a 5-email campaign that sounds like you |
 | [30 Days of Social Posts in One Hour](prompts/marketing/social-content-machine.md) | No-code | Generate a month of on-brand posts from one product description |
+| [Customer Case Study Writer](prompts/marketing/case-study-writer.md) | No-code | A case study that sells without sounding like a brochure |
 | [Google Business Profile Optimizer](prompts/marketing/google-business-profile-optimizer.md) | No-code | A profile that competes for the map pack in your neighbourhood |
 | [Landing Page Copy Writer](prompts/marketing/landing-page-copy-writer.md) | No-code | Landing page copy built section by section from your customer's words |
 | [Newsletter Issue Writer](prompts/marketing/newsletter-issue-writer.md) | No-code | An issue subscribers open next week too |
