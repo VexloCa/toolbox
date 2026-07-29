@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **65 master prompts, 13 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **66 master prompts, 13 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -64,6 +64,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Weekly Report Automator: AI Weekly Report Generator](prompts/operations/weekly-report-automator.md) | No-code | Compile scattered updates into one clean weekly report |
 | [Delegation Planner](prompts/operations/delegation-planner.md) | No-code | Hand off half your task list without dropping quality |
 | [Inventory Reorder Planner](prompts/operations/inventory-reorder-planner.md) | No-code | Reorder points that stop both stockouts and dead stock |
+| [Process Bottleneck Finder](prompts/operations/process-bottleneck-finder.md) | No-code | Find the step that slows everything and what fixing it is worth |
 
 ### Finance & Admin
 
