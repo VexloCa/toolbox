@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **66 master prompts, 14 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **67 master prompts, 14 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -62,6 +62,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [SOP Writer: AI SOP Generator for Small Business](prompts/operations/sop-writer.md) | No-code | Turn "how I do it" into documentation anyone can follow |
 | [Vendor Comparison Matrix](prompts/operations/vendor-comparison-matrix.md) | No-code | Compare quotes and vendors on facts, not gut feel |
 | [Weekly Report Automator: AI Weekly Report Generator](prompts/operations/weekly-report-automator.md) | No-code | Compile scattered updates into one clean weekly report |
+| [Client Onboarding Checklist Builder](prompts/operations/customer-onboarding-checklist.md) | No-code | New clients hit their first win without you chasing anyone |
 | [Delegation Planner](prompts/operations/delegation-planner.md) | No-code | Hand off half your task list without dropping quality |
 | [Inventory Reorder Planner](prompts/operations/inventory-reorder-planner.md) | No-code | Reorder points that stop both stockouts and dead stock |
 | [Process Bottleneck Finder](prompts/operations/process-bottleneck-finder.md) | No-code | Find the step that slows everything and what fixing it is worth |
