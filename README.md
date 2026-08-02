@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **68 master prompts, 14 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **69 master prompts, 14 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -37,6 +37,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Discovery Call Question Bank](prompts/sales/discovery-call-question-bank.md) | No-code | Questions that surface budget and urgency without interrogating |
 | [Referral Request Scripts](prompts/sales/referral-request-scripts.md) | No-code | Referral asks that feel natural and actually get sent |
 | [Sales One-Pager Builder](prompts/sales/sales-one-pager-builder.md) | No-code | A leave-behind that sells while you're not in the room |
+| [Upsell & Cross-Sell Finder](prompts/sales/upsell-opportunity-finder.md) | No-code | Revenue sitting in your current client list, mapped |
 | [Win/Loss Analyzer](prompts/sales/win-loss-analyzer.md) | No-code | Learn why deals really close or die, from patterns not hunches |
 
 ### Customer Support
