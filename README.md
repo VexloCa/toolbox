@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **73 master prompts, 17 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **73 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -130,6 +130,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [The Idea Grill](skills/idea-grill/README.md) | Strategy & Planning | Five hostile experts interrogate your idea and score it out of 100 before you build |
 | [Accountant Handoff Pack](skills/accountant-handoff-pack/README.md) | Finance & Admin | Send your accountant one clean package instead of forty emails |
 | [SOP Studio](skills/sop-studio/README.md) | Operations & Productivity | Turn a 10-minute voice ramble into an SOP your team follows |
+| [Bookkeeping Copilot](skills/bookkeeping-copilot/README.md) | Finance & Admin | Books that stay categorized and reconciled monthly without dread |
 | [Grant Finder](skills/grant-finder/README.md) | Finance & Admin | A shortlist of grants you might qualify for, with draft answers |
 | [Recruiting Pipeline Manager](skills/recruiting-pipeline-manager/README.md) | HR & Hiring | Every candidate moved, messaged, and scored from one place |
 | [SEO Audit Copilot](skills/seo-audit-copilot/README.md) | Marketing & Content | A prioritized SEO fix list in plain English, no agency retainer |
