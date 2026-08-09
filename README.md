@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **74 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **75 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -50,6 +50,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Review Response Writer](prompts/support/review-response-writer.md) | No-code | Respond to every Google/Yelp review: good or brutal |
 | [Support Macro Library](prompts/support/support-macro-library.md) | No-code | Generate 25 reusable reply templates for your business |
 | [Voice-of-Customer Miner](prompts/support/voice-of-customer-miner.md) | No-code | Mine support tickets for product and marketing gold |
+| [Churn Risk Detector](prompts/support/churn-risk-detector.md) | No-code | Spot the customers about to leave while there's time to act |
 | [Refund & Return Policy Writer](prompts/support/refund-policy-writer.md) | No-code | A policy that protects you without scaring buyers |
 | [SLA & Response Policy Writer](prompts/support/sla-policy-writer.md) | No-code | Service promises you can keep, written down |
 
