@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **73 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **74 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -34,6 +34,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Objection Handling Playbook](prompts/sales/objection-handling-playbook.md) | No-code | Build responses to your 10 toughest objections |
 | [Proposal & Quote Generator](prompts/sales/proposal-generator.md) | No-code | Turn call notes into a polished proposal in 15 minutes |
 | [10-Minute Sales Call Prep](prompts/sales/sales-call-prep.md) | No-code | Walk into every sales call knowing exactly what to say |
+| [CRM Hygiene Auditor](prompts/sales/crm-hygiene-auditor.md) | No-code | A pipeline you can finally trust for forecasting |
 | [Discovery Call Question Bank](prompts/sales/discovery-call-question-bank.md) | No-code | Questions that surface budget and urgency without interrogating |
 | [Referral Request Scripts](prompts/sales/referral-request-scripts.md) | No-code | Referral asks that feel natural and actually get sent |
 | [Sales One-Pager Builder](prompts/sales/sales-one-pager-builder.md) | No-code | A leave-behind that sells while you're not in the room |
