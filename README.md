@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **77 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **78 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -84,6 +84,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Invoice Chaser Sequences](prompts/finance/invoice-chaser.md) | No-code | Get overdue invoices paid without burning relationships |
 | [Pricing Strategy Advisor](prompts/finance/pricing-strategy-advisor.md) | No-code | Pressure-test your pricing and find money you're leaving behind |
 | [Break-Even Analyzer](prompts/finance/break-even-analyzer.md) | No-code | Know exactly how many sales cover the bills each month |
+| [Debt Paydown Planner](prompts/finance/debt-paydown-planner.md) | No-code | A payoff order for your business debts with the reasoning shown |
 | [Grant Application Writer](prompts/finance/grant-application-writer.md) | No-code | A draft application that answers what reviewers actually score |
 | [Profit Margin Diagnostic](prompts/finance/profit-margin-diagnostic.md) | No-code | Find exactly where your margin leaks and what each leak costs per year |
 | [12-Month Revenue Forecast](prompts/finance/revenue-forecast-builder.md) | No-code | A month-by-month forecast built from your real pipeline, not wishes |
