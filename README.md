@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **79 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
+Currently in the box: **80 master prompts, 18 agent skills, 3 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -72,6 +72,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Delegation Planner](prompts/operations/delegation-planner.md) | No-code | Hand off half your task list without dropping quality |
 | [Inventory Reorder Planner](prompts/operations/inventory-reorder-planner.md) | No-code | Reorder points that stop both stockouts and dead stock |
 | [Process Bottleneck Finder](prompts/operations/process-bottleneck-finder.md) | No-code | Find the step that slows everything and what fixing it is worth |
+| [Risk Register Builder](prompts/operations/risk-register-builder.md) | No-code | The ten risks that could actually hurt you, ranked, with responses |
 
 ### Finance & Admin
 
