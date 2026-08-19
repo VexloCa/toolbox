@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **82 master prompts, 21 agent skills, 4 workflows, 1 tool stack**.
+Currently in the box: **83 master prompts, 21 agent skills, 4 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -124,6 +124,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Partnership Evaluator](prompts/strategy/partnership-evaluator.md) | No-code | Know if the partnership is worth it before the handshake |
 | [Pivot Decision Framework](prompts/strategy/pivot-decision-framework.md) | No-code | A structured answer to "should we change course?" |
 | [Pricing Experiment Designer](prompts/strategy/pricing-experiment-designer.md) | No-code | Test a price change without betting the business |
+| [AI ROI Reality Check](prompts/strategy/ai-roi-reality-check.md) | No-code | A keep / cancel / renegotiate verdict on every AI tool you pay for |
 
 ## Agent skills
 
