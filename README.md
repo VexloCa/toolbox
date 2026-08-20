@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **83 master prompts, 21 agent skills, 4 workflows, 1 tool stack**.
+Currently in the box: **83 master prompts, 22 agent skills, 4 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -151,6 +151,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Competitor Radar](skills/competitor-radar/README.md) | Strategy & Planning | A monthly competitor briefing from what they publish publicly |
 | [Review & Reputation Manager](skills/review-reputation-manager/README.md) | Customer Support | More reviews coming in and every one answered well |
 | [AI Spend Auditor](skills/ai-spend-auditor/README.md) | Finance & Admin | Every AI charge in one inventory, with renewal dates and expiry flags |
+| [Business Plan Copilot](skills/business-plan-copilot/README.md) | Strategy & Planning | A working business plan and financial forecast, built section by section |
 
 ## Workflows
 
