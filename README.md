@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **89 master prompts, 27 agent skills, 4 workflows, 1 tool stack**.
+Currently in the box: **90 master prompts, 27 agent skills, 4 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -111,6 +111,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Offer Letter Writer](prompts/hr/offer-letter-writer.md) | No-code | An offer letter that closes the candidate without overpromising |
 | [1:1 Meeting Agenda Builder](prompts/hr/one-on-one-agenda-builder.md) | No-code | One-on-ones your team stops dreading |
 | [Team Training Plan Builder](prompts/hr/training-plan-builder.md) | No-code | A skills-gap map and a training plan someone will actually follow |
+| [Shift Schedule Builder](prompts/hr/shift-schedule-builder.md) | No-code | Next week's schedule built in ten minutes, with the conflicts caught before they call in |
 
 ### Strategy & Planning
 
