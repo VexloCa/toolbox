@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **92 master prompts, 30 agent skills, 4 workflows, 1 tool stack**.
+Currently in the box: **93 master prompts, 30 agent skills, 4 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -94,6 +94,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Profit Margin Diagnostic](prompts/finance/profit-margin-diagnostic.md) | No-code | Find exactly where your margin leaks and what each leak costs per year |
 | [12-Month Revenue Forecast](prompts/finance/revenue-forecast-builder.md) | No-code | A month-by-month forecast built from your real pipeline, not wishes |
 | [Tax Season Prep Checklist](prompts/finance/tax-season-prep-checklist.md) | No-code | Walk into your accountant's office with everything they need, once |
+| [GST/HST Filing Prep](prompts/finance/gst-hst-filing-prep.md) | No-code | A filing-ready GST/HST package for your accountant, built in an evening instead of a lost weekend |
 
 ### HR & Hiring
 
