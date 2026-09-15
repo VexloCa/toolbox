@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **93 master prompts, 31 agent skills, 4 workflows, 1 tool stack**.
+Currently in the box: **94 master prompts, 31 agent skills, 4 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -135,6 +135,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Context Pack Builder](prompts/strategy/context-pack-builder.md) | No-code | Stop retyping your business's story into every prompt; paste a ready context block instead |
 | [AI Usage Policy Writer](prompts/strategy/ai-usage-policy-writer.md) | No-code | One page of house AI rules your team will read, before the first incident instead of after |
 | [AI Pilot Designer](prompts/strategy/ai-pilot-designer.md) | No-code | A 30-day AI pilot with success measures and kill criteria decided before anyone gets attached |
+| [AI Opportunity Self-Audit](prompts/strategy/ai-opportunity-self-audit.md) | No-code | A ranked map of where AI pays first in your business, before you buy anything |
 
 ## Agent skills
 
