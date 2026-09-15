@@ -22,7 +22,7 @@ The installable file is [`SKILL.md`](SKILL.md) in this folder. Add it to your as
 
 ## Example
 
-A garden centre with an 1,800-subscriber list installs the skill in March. Setup captures three segments (retail regulars, landscapers, workshop attendees) and a two-sends-a-month limit. The April plan proposes a frost-date reminder to everyone and a wholesale preorder note to landscapers only; both drafted, subject variants included. Results get logged in one line each. By July the quarterly read shows question-style subjects beating announcements by ten points, workshop attendees opening everything and buying little, and landscapers converting best in the first week of the month, so August's plan moves their send to the 2nd and pitches workshops a membership instead of products. Nothing in that paragraph required software beyond the email tool they already had.
+A garden centre with an 1,800-subscriber list installs the skill in March. Setup captures three segments (retail regulars, contractors, workshop attendees) and a two-sends-a-month limit. The April plan proposes a frost-date reminder to everyone and a wholesale preorder note to contractors only; both drafted, subject variants included. Results get logged in one line each. By July the quarterly read shows question-style subjects beating announcements by ten points, workshop attendees opening everything and buying little, and contractors converting best in the first week of the month, so August's plan moves their send to the 2nd and pitches workshops a membership instead of products. Nothing in that paragraph required software beyond the email tool they already had.
 
 ## Pro tip
 
