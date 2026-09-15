@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **94 master prompts, 31 agent skills, 4 workflows, 1 tool stack**.
+Currently in the box: **94 master prompts, 32 agent skills, 4 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -172,6 +172,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [Referral Program Copilot](skills/referral-program-copilot/README.md) | Sales & Lead Generation | Referrals become a system with a memory, not a thing you remember to do twice a year |
 | [Quarterly Goals Copilot](skills/quarterly-goals-copilot/README.md) | Strategy & Planning | Goals that survive week three, because something remembers them and asks |
 | [Cash Flow Copilot](skills/cash-flow-copilot/README.md) | Finance & Admin | The cash crunch flagged six weeks out, while it is still a decision instead of an emergency |
+| [Email Marketing Copilot](skills/email-marketing-copilot/README.md) | Marketing & Content | A monthly email program that remembers what worked, instead of campaign amnesia |
 
 ## Workflows
 
