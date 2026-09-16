@@ -2,7 +2,7 @@
 
 Ready-to-use AI prompts and agent skills for small business, built around the tools you already pay for: ChatGPT, Claude, Copilot, Gemini.
 
-Currently in the box: **94 master prompts, 32 agent skills, 4 workflows, 1 tool stack**.
+Currently in the box: **95 master prompts, 32 agent skills, 4 workflows, 1 tool stack**.
 
 Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the same content. Star the repo, clone what you need, and make it yours.
 
@@ -26,6 +26,7 @@ Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with the s
 | [SEO Content Brief Generator](prompts/marketing/seo-content-brief-generator.md) | No-code | Briefs that make every article competitive before it's written |
 | [Short-Form Video Script Writer](prompts/marketing/short-video-script-writer.md) | No-code | Thirty-second scripts with a hook that stops the scroll |
 | [Price Increase Letter Writer](prompts/marketing/price-increase-letter.md) | No-code | Announce a price increase without apologizing or losing your regulars |
+| [Testimonial Collector](prompts/marketing/testimonial-collector.md) | No-code | Real client quotes you can publish, collected without the awkward ask |
 
 ### Sales & Lead Generation
 
