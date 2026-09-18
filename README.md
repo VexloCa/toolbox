@@ -12,7 +12,7 @@ Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it inst
 2. **Claude Code.** Copy the folder to `~/.claude/skills/<skill-name>/` for every project, or to `.claude/skills/` inside one project.
 3. **ChatGPT, Gemini, Copilot, or Claude on the free plan.** Open the skill's `SKILL.md`, copy everything, and paste it at the start of a conversation or into a project's instructions. The skill runs its setup questions once, then works from there.
 
-A skill is a set of instructions your assistant will follow, so read one before you install it, from this repo or any other. The free [Skill Check](https://vexlo.ca/skill-check) reads a skill file and tells you what it will do with your data.
+A skill is a set of instructions your assistant will follow, so read one before you install it, from this repo or any other. The free [Skill Check](https://vexlo.ca/skill-check) grades any skill file or GitHub link from A+ to F for prompt injection, data privacy and destructive actions.
 
 ## How this relates to Claude for Small Business
 
