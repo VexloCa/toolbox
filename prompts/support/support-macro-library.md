@@ -57,6 +57,8 @@ OUTPUT FORMAT: Organized by the 5 categories as headers, numbered 1-25
 overall, ready to paste into a helpdesk macro tool or shared doc.
 ```
 
+If 25 feels like more than your inbox needs, start with the [eight suggested replies for customer service](/blog/suggested-replies-customer-service) most small businesses send weekly, then come back here for the full set. Either way, run the [Support Reply Auditor](/toolbox/support-reply-auditor) on ten sent replies a month so the library stays current when a policy changes.
+
 ## How to use it
 
 1. Gather whatever policy documentation you have. Even rough notes are enough to start.
