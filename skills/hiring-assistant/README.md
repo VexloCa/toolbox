@@ -10,7 +10,11 @@ Small businesses hire rarely, so every hire is improvised: a job post copied fro
 
 ## The skill
 
-The installable file is [`SKILL.md`](SKILL.md) in this folder. Add it to your assistant's skills folder, or paste it at the start of a conversation.
+The installable file is [`SKILL.md`](SKILL.md) in this folder. Three ways to use it:
+
+- **Claude apps:** zip this folder and upload it in Settings under Skills (paid plans with code execution switched on). Claude then loads it when a request matches.
+- **Claude Code:** copy the folder to `~/.claude/skills/hiring-assistant/`, or to `.claude/skills/` inside a project.
+- **ChatGPT, Gemini, Copilot, or Claude on the free plan:** paste the contents of `SKILL.md` at the start of a conversation or into a project's instructions.
 
 ## How to use it
 

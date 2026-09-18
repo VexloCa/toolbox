@@ -1,8 +1,12 @@
 ---
-name: The Idea Grill
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: An interactive panel of five hostile experts that interrogates a business idea one question at a time, then scores it out of 100 before any money gets spent building it.
+name: idea-grill
+description: "An interactive panel of five hostile experts that interrogates a business idea one question at a time, then scores it out of 100 before any money gets spent building it. Use for: Five hostile experts interrogate your idea and score it out of 100 before you build."
+license: MIT
+metadata:
+  title: "The Idea Grill"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/idea-grill"
 ---
 
 # The Idea Grill

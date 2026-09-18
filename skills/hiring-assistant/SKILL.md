@@ -1,8 +1,12 @@
 ---
-name: Hiring Assistant
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A structured hiring assistant for job descriptions, interview kits, screening rubrics, and onboarding plans. Built around fair, consistent process.
+name: hiring-assistant
+description: "A structured hiring assistant for job descriptions, interview kits, screening rubrics, and onboarding plans. Built around fair, consistent process. Use for: Hire with structure: job posts, interview kits, rubrics, onboarding."
+license: MIT
+metadata:
+  title: "Hiring Assistant"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/hiring-assistant"
 ---
 
 # Hiring Assistant

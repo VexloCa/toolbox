@@ -78,7 +78,7 @@ FORWARDABLE BLURB: "Passing this along: [FIRM] does the books for us, monthly cl
 
 ## Pro tip
 
-The forwardable blurb doubles as a positioning test. If the AI can't write three neutral sentences that make a stranger want the call, the referral ask isn't your bottleneck; your service description is. Fix the description first and the asks get easier.
+The forwardable blurb doubles as a positioning test. If the AI can't write three neutral sentences that make a stranger want the call, the referral ask isn't your bottleneck; your service description is. Fix the description first and the asks get easier. And when the asks start working, the bookkeeping around them (who was asked, who sent someone, who is owed a thank-you) becomes its own standing job; the [Referral Program Copilot](/toolbox/referral-program-copilot) skill is the version of this with a memory.
 
 ---
 

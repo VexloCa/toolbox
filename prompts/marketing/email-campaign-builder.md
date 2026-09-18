@@ -72,7 +72,7 @@ CTA: "See the exact schedule →"
 
 ## Pro tip
 
-Write the last email (the close) first, then work backward. Knowing exactly what the final ask and deadline are keeps the earlier emails from either giving away the offer too early or building toward nothing specific.
+Write the last email (the close) first, then work backward. Knowing exactly what the final ask and deadline are keeps the earlier emails from either giving away the offer too early or building toward nothing specific. And when campaigns become a monthly rhythm rather than an occasional push, the missing piece is memory (what worked, who got mailed, what March already said); the [Email Marketing Copilot](/toolbox/email-marketing-copilot) skill is this prompt with a results log attached.
 
 ---
 

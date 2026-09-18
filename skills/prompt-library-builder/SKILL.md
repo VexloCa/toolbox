@@ -1,8 +1,12 @@
 ---
-name: Prompt Library Builder
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Builds and maintains a small business's shared prompt library. Intakes scattered prompts, restructures each into role-context-task-format, organizes by job and role, versions every change, patches prompts from one-line breakage reports, and runs quarterly pruning passes.
+name: prompt-library-builder
+description: "Builds and maintains a small business's shared prompt library. Intakes scattered prompts, restructures each into role-context-task-format, organizes by job and role, versions every change, patches prompts from one-line breakage reports, and runs quarterly pruning passes. Use for: One maintained prompt library the whole team uses, instead of six private note files."
+license: MIT
+metadata:
+  title: "Prompt Library Builder"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/prompt-library-builder"
 ---
 
 # Prompt Library Builder

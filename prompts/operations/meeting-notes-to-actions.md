@@ -6,7 +6,7 @@
 
 ## The problem
 
-Meetings end, everyone nods, and within a day nobody remembers who was supposed to do what by when. Notes sit in a doc nobody reopens, decisions get re-litigated in the next meeting, and small commitments quietly die. This turns raw, messy notes or a transcript into a clean record of decisions, owned action items, and a ready-to-send recap. In the time it takes to paste and click.
+Meetings end, everyone nods, and within a day nobody remembers who was supposed to do what by when. Notes sit in a doc nobody reopens, decisions get re-litigated in the next meeting, and small commitments quietly die. This prompt extracts action items from meeting notes or a raw transcript: paste either one, and it returns a clean record of decisions, owned action items with deadlines, and a ready-to-send recap. In the time it takes to paste and click.
 
 ## The prompt
 
@@ -47,7 +47,7 @@ If the notes are too thin to complete a section, say exactly what's missing
 instead of filling the gap. Keep the recap email under 150 words.
 ```
 
-The full routine around this prompt, from what to paste to chasing unassigned rows the next morning, is walked through in [How to Turn Meeting Notes Into Action Items With AI](/blog/turn-meeting-notes-into-action-items-with-ai).
+The full routine around this prompt, from what to paste to chasing unassigned rows the next morning, is walked through in [How to Turn Meeting Notes Into Action Items With AI](/blog/turn-meeting-notes-into-action-items-with-ai). Wondering whether you need a paid notes tool instead? The honest comparison, including the case for neither, is in [AI meeting-notes tools vs. just using ChatGPT](/blog/ai-meeting-notes-tools-compared).
 
 ## How to use it
 

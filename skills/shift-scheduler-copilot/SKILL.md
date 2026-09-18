@@ -1,8 +1,12 @@
 ---
-name: Shift Scheduler Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Runs a small business's staff scheduling as a standing job. Learns the roster, rules, and availability once, builds each week's schedule from memory with conflicts and risk lists, keeps a fairness ledger of unpopular shifts and swaps, and flags the staffing patterns that are hiring problems in disguise.
+name: shift-scheduler-copilot
+description: "Runs a small business's staff scheduling as a standing job. Learns the roster, rules, and availability once, builds each week's schedule from memory with conflicts and risk lists, keeps a fairness ledger of unpopular shifts and swaps, and flags the staffing patterns that are hiring problems in disguise. Use for: The weekly schedule builds itself from memory; you make the judgment calls."
+license: MIT
+metadata:
+  title: "Shift Scheduler Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/shift-scheduler-copilot"
 ---
 
 # Shift Scheduler Copilot

@@ -1,8 +1,12 @@
 ---
-name: Complaint Resolution Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Runs a small business's complaint desk as a standing job. Learns the resolution policy once, drafts every reply inside it in the acknowledge-own-fix structure, tracks promises to completion, keeps the complaint log with pattern flags, remembers repeat customers, and escalates the complaints a template should never touch.
+name: complaint-resolution-copilot
+description: "Runs a small business's complaint desk as a standing job. Learns the resolution policy once, drafts every reply inside it in the acknowledge-own-fix structure, tracks promises to completion, keeps the complaint log with pattern flags, remembers repeat customers, and escalates the complaints a template should never touch. Use for: Every complaint answered in your policy and your voice, every promise tracked to done."
+license: MIT
+metadata:
+  title: "Complaint Resolution Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/complaint-resolution-copilot"
 ---
 
 # Complaint Resolution Copilot

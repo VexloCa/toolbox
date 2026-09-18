@@ -1,8 +1,12 @@
 ---
-name: Proposal Studio
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A proposal writer that learns your services, rate card, and past winning proposals, then drafts scoped proposals with options tables in your voice, priced only from your rates.
+name: proposal-studio
+description: "A proposal writer that learns your services, rate card, and past winning proposals, then drafts scoped proposals with options tables in your voice, priced only from your rates. Use for: Proposals in your voice and format, out the same day."
+license: MIT
+metadata:
+  title: "Proposal Studio"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/proposal-studio"
 ---
 
 # Proposal Studio

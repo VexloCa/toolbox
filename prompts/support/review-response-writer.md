@@ -61,7 +61,7 @@ HARD RULES (apply to every category):
 
 OUTPUT FORMAT: State the category, then the response text only, ready to
 paste directly into the review platform.
-```
+``` The full method around this prompt, bad reviews and fake ones included, is in [how to respond to Google reviews with AI](/blog/respond-to-google-reviews-with-ai).
 
 ## How to use it
 

@@ -78,7 +78,7 @@ Output (email variant):
 
 ## Pro tip
 
-Keep a running log of which complaint types trigger de-escalation scripts most often, if "wrong color shipped" keeps showing up, the fix isn't a better apology, it's a process fix upstream, and that pattern is worth feeding into an automation-opportunity-audit.
+Keep a running log of which complaint types trigger de-escalation scripts most often, if "wrong color shipped" keeps showing up, the fix isn't a better apology, it's a process fix upstream, and that pattern is worth feeding into an automation-opportunity-audit. When that log, the follow-up promises, and the pattern-watching become a weekly job of their own, the standing version of this prompt is the [Complaint Resolution Copilot](/toolbox/complaint-resolution-copilot) skill.
 
 ---
 

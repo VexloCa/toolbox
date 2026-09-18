@@ -1,8 +1,12 @@
 ---
-name: Discovery Call Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Preps every discovery call from the lead's website and intake notes, debriefs from a spoken ramble into a structured record, forces a pursue/pass decision, and keeps a call log that surfaces patterns.
+name: discovery-call-copilot
+description: "Preps every discovery call from the lead's website and intake notes, debriefs from a spoken ramble into a structured record, forces a pursue/pass decision, and keeps a call log that surfaces patterns. Use for: Walk into every discovery call prepared, walk out with a decision."
+license: MIT
+metadata:
+  title: "Discovery Call Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/discovery-call-copilot"
 ---
 
 # Discovery Call Copilot

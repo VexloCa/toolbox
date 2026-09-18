@@ -1,8 +1,12 @@
 ---
-name: AI Spend Auditor
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Builds and maintains an inventory of a small business's AI subscriptions and usage-billed automations, watches renewal and price-change dates, flags overlap, and drafts cancellation or renegotiation emails.
+name: ai-spend-auditor
+description: "Builds and maintains an inventory of a small business's AI subscriptions and usage-billed automations, watches renewal and price-change dates, flags overlap, and drafts cancellation or renegotiation emails. Use for: Every AI charge in one inventory, with renewal dates and expiry flags."
+license: MIT
+metadata:
+  title: "AI Spend Auditor"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/ai-spend-auditor"
 ---
 
 # AI Spend Auditor

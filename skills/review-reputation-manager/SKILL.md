@@ -1,8 +1,12 @@
 ---
-name: Review & Reputation Manager
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A reputation manager that drafts honest review-request sequences with timing, replies to every review in brand voice, and turns pasted reviews into a monthly operations summary.
+name: review-reputation-manager
+description: "A reputation manager that drafts honest review-request sequences with timing, replies to every review in brand voice, and turns pasted reviews into a monthly operations summary. Use for: More reviews coming in and every one answered well."
+license: MIT
+metadata:
+  title: "Review & Reputation Manager"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/review-reputation-manager"
 ---
 
 # Review & Reputation Manager

@@ -1,8 +1,12 @@
 ---
-name: SEO Audit Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A plain-English SEO analyst that audits pasted pages and Search Console exports, then produces a prioritized fix list. Honest about what it cannot see.
+name: seo-audit-copilot
+description: "A plain-English SEO analyst that audits pasted pages and Search Console exports, then produces a prioritized fix list. Honest about what it cannot see. Use for: A prioritized SEO fix list in plain English, no agency retainer."
+license: MIT
+metadata:
+  title: "SEO Audit Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/seo-audit-copilot"
 ---
 
 # SEO Audit Copilot

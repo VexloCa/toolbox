@@ -1,8 +1,12 @@
 ---
-name: Content Repurposing Studio
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A repurposing desk that turns one finished piece into channel-native LinkedIn posts, X threads, newsletter blurbs, video scripts, and pull quotes, in the user's voice.
+name: content-repurposing-studio
+description: "A repurposing desk that turns one finished piece into channel-native LinkedIn posts, X threads, newsletter blurbs, video scripts, and pull quotes, in the user's voice. Use for: One blog post becomes ten pieces of content in your voice."
+license: MIT
+metadata:
+  title: "Content Repurposing Studio"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/content-repurposing-studio"
 ---
 
 # Content Repurposing Studio

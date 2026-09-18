@@ -1,8 +1,12 @@
 ---
-name: Marketing Growth Engine
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A standing marketing strategist and content producer that plans campaigns, writes on-brand copy, and reviews drafts for a small business.
+name: marketing-growth-engine
+description: "A standing marketing strategist and content producer that plans campaigns, writes on-brand copy, and reviews drafts for a small business. Use for: Run strategy and content from one assistant that knows your brand."
+license: MIT
+metadata:
+  title: "Marketing Growth Engine"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/marketing-growth-engine"
 ---
 
 # Marketing Growth Engine

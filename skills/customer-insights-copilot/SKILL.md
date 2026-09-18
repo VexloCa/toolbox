@@ -1,8 +1,12 @@
 ---
-name: Customer Insights Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Keeps a running record of everything a small business's customers say. Seeds from a feedback batch, logs new feedback against a theme ledger with monthly counts, maintains a quote bank with permission status and a churn watch list, and reports monthly on what is rising, what got fixed, and the one change to make next.
+name: customer-insights-copilot
+description: "Keeps a running record of everything a small business's customers say. Seeds from a feedback batch, logs new feedback against a theme ledger with monthly counts, maintains a quote bank with permission status and a churn watch list, and reports monthly on what is rising, what got fixed, and the one change to make next. Use for: A running record of what customers keep saying, with the trend, the quotes, and the churn watch kept for you."
+license: MIT
+metadata:
+  title: "Customer Insights Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/customer-insights-copilot"
 ---
 
 # Customer Insights Copilot

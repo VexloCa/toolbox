@@ -1,8 +1,12 @@
 ---
-name: Sales Pipeline Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A persistent sales assistant that personalizes outreach, preps calls, drafts follow-ups, handles objections, and writes proposals.
+name: sales-pipeline-copilot
+description: "A persistent sales assistant that personalizes outreach, preps calls, drafts follow-ups, handles objections, and writes proposals. Use for: Personalize outreach, prep calls, and chase deals without dropped balls."
+license: MIT
+metadata:
+  title: "Sales Pipeline Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/sales-pipeline-copilot"
 ---
 
 # Sales Pipeline Copilot

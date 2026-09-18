@@ -48,7 +48,7 @@ deadline is doing the selling, say so; deadlines are a sales tactic,
 not a business reason.
 ```
 
-Run this before the purchase; run our [AI ROI Reality Check](/toolbox/ai-roi-reality-check) on everything you already bought. The two verdicts should agree, and when they don't, the scorecard was too generous. For deciding between a paid meeting-notes tool and the assistant you already have, the worked example is in [AI meeting-notes tools vs. just using ChatGPT](/blog/ai-meeting-notes-tools-compared).
+Run this before the purchase; run our [AI ROI Reality Check](/toolbox/ai-roi-reality-check) on everything you already bought. The two verdicts should agree, and when they don't, the scorecard was too generous. For deciding between a paid meeting-notes tool and the assistant you already have, the worked example is in [AI meeting-notes tools vs. just using ChatGPT](/blog/ai-meeting-notes-tools-compared), and the wider three-lane decision this scorecard feeds sits in [build vs. buy for small-business AI](/blog/build-vs-buy-ai-small-business).
 
 ## How to use it
 

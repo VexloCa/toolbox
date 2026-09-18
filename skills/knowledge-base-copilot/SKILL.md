@@ -1,8 +1,12 @@
 ---
-name: Knowledge Base Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Keeps a small business's help content alive. Seeds from existing articles, logs real customer questions against them, maintains a demand-ranked to-write list, sweeps every affected article when the business changes, drafts new articles in the house voice, and reports monthly on what customers ask and which answers fail.
+name: knowledge-base-copilot
+description: "Keeps a small business's help content alive. Seeds from existing articles, logs real customer questions against them, maintains a demand-ranked to-write list, sweeps every affected article when the business changes, drafts new articles in the house voice, and reports monthly on what customers ask and which answers fail. Use for: A help section that answers this month's questions, not the ones from launch day."
+license: MIT
+metadata:
+  title: "Knowledge Base Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/knowledge-base-copilot"
 ---
 
 # Knowledge Base Copilot

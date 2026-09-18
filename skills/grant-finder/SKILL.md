@@ -1,8 +1,12 @@
 ---
-name: Grant Finder
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A grant research analyst that profiles official program pages, builds eligibility checklists, and drafts application answers. Never invents a program.
+name: grant-finder
+description: "A grant research analyst that profiles official program pages, builds eligibility checklists, and drafts application answers. Never invents a program. Use for: A shortlist of grants you might qualify for, with draft answers."
+license: MIT
+metadata:
+  title: "Grant Finder"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/grant-finder"
 ---
 
 # Grant Finder

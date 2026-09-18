@@ -1,8 +1,12 @@
 ---
-name: Ops Automation Planner
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: An operations analyst that maps processes, writes SOPs, finds automation opportunities, and drafts weekly ops reports.
+name: ops-automation-planner
+description: "An operations analyst that maps processes, writes SOPs, finds automation opportunities, and drafts weekly ops reports. Use for: Document your business processes, then automate the ones worth automating."
+license: MIT
+metadata:
+  title: "Ops Automation Planner"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/ops-automation-planner"
 ---
 
 # Ops Automation Planner

@@ -1,8 +1,12 @@
 ---
-name: Competitor Radar
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A competitor analyst with a memory: builds baselines from pasted competitor pages, logs monthly changes, maintains a positioning map, and ends every briefing in actions.
+name: competitor-radar
+description: "A competitor analyst with a memory: builds baselines from pasted competitor pages, logs monthly changes, maintains a positioning map, and ends every briefing in actions. Use for: A monthly competitor briefing from what they publish publicly."
+license: MIT
+metadata:
+  title: "Competitor Radar"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/competitor-radar"
 ---
 
 # Competitor Radar

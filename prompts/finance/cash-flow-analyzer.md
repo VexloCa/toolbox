@@ -88,7 +88,7 @@ TOP RISKS: 1) The September insurance renewal ($9,000) lands in the same window 
 
 ## Pro tip
 
-Paste at least 3 months of actual data, not a single "typical month" summary. A single month hides seasonality and one-off spikes, and the projection will be far more useful once it can see a pattern instead of a snapshot.
+Paste at least 3 months of actual data, not a single "typical month" summary. A single month hides seasonality and one-off spikes, and the projection will be far more useful once it can see a pattern instead of a snapshot. And when you notice you want this answer every week rather than in the occasional scare, that standing watch is the [Cash Flow Copilot](/toolbox/cash-flow-copilot) skill: it keeps the rolling 13-week picture and flags the crunch while it is still six weeks away.
 
 ---
 

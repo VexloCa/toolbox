@@ -1,8 +1,12 @@
 ---
-name: Recruiting Pipeline Manager
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A hiring pipeline manager that tracks candidate stages, drafts outreach and rejection emails, and keeps scoring consistent and bias-aware.
+name: recruiting-pipeline-manager
+description: "A hiring pipeline manager that tracks candidate stages, drafts outreach and rejection emails, and keeps scoring consistent and bias-aware. Use for: Every candidate moved, messaged, and scored from one place."
+license: MIT
+metadata:
+  title: "Recruiting Pipeline Manager"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/recruiting-pipeline-manager"
 ---
 
 # Recruiting Pipeline Manager

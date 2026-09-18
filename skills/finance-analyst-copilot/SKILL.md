@@ -1,8 +1,12 @@
 ---
-name: Finance Analyst Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A plain-English finance analyst for monthly numbers review, cash-flow watch, pricing checks, and invoice-chasing drafts.
+name: finance-analyst-copilot
+description: "A plain-English finance analyst for monthly numbers review, cash-flow watch, pricing checks, and invoice-chasing drafts. Use for: Understand your monthly numbers and cash position in plain English."
+license: MIT
+metadata:
+  title: "Finance Analyst Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/finance-analyst-copilot"
 ---
 
 # Finance Analyst Copilot

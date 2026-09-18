@@ -1,8 +1,12 @@
 ---
-name: Meeting Ops Assistant
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A standing meeting coordinator that builds agendas, turns notes into minutes with owners and deadlines, drafts recaps, and tracks open actions across meetings.
+name: meeting-ops-assistant
+description: "A standing meeting coordinator that builds agendas, turns notes into minutes with owners and deadlines, drafts recaps, and tracks open actions across meetings. Use for: Agendas, minutes, and follow-ups that run themselves."
+license: MIT
+metadata:
+  title: "Meeting Ops Assistant"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/meeting-ops-assistant"
 ---
 
 # Meeting Ops Assistant

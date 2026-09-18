@@ -1,8 +1,12 @@
 ---
-name: Accountant Handoff Pack
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Assembles month-end, quarter-end, or year-end into one clean package for your accountant or bookkeeper, with categorized transactions, flagged items, and a cover memo.
+name: accountant-handoff-pack
+description: "Assembles month-end, quarter-end, or year-end into one clean package for your accountant or bookkeeper, with categorized transactions, flagged items, and a cover memo. Use for: Send your accountant one clean package instead of forty emails."
+license: MIT
+metadata:
+  title: "Accountant Handoff Pack"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/accountant-handoff-pack"
 ---
 
 # Accountant Handoff Pack

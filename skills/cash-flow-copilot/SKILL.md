@@ -1,8 +1,12 @@
 ---
-name: Cash Flow Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Runs a small business's cash watch as a standing job. Learns the money's shape once, maintains the rolling 13-week projection from two-minute weekly pastes, flags crunches five to eight weeks early with levers, watches receivable drift, and answers what-ifs against the live picture.
+name: cash-flow-copilot
+description: "Runs a small business's cash watch as a standing job. Learns the money's shape once, maintains the rolling 13-week projection from two-minute weekly pastes, flags crunches five to eight weeks early with levers, watches receivable drift, and answers what-ifs against the live picture. Use for: The cash crunch flagged six weeks out, while it is still a decision instead of an emergency."
+license: MIT
+metadata:
+  title: "Cash Flow Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/cash-flow-copilot"
 ---
 
 # Cash Flow Copilot

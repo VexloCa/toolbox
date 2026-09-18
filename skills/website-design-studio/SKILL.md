@@ -1,8 +1,12 @@
 ---
-name: Website Design Studio
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A web strategist that plans site structure, writes conversion-focused copy, and reviews pages with modern design and accessibility guidance.
+name: website-design-studio
+description: "A web strategist that plans site structure, writes conversion-focused copy, and reviews pages with modern design and accessibility guidance. Use for: Plan, write, and review a website that actually converts."
+license: MIT
+metadata:
+  title: "Website Design Studio"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/website-design-studio"
 ---
 
 # Website Design Studio

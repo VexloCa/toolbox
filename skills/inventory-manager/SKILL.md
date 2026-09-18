@@ -1,8 +1,12 @@
 ---
-name: Inventory Manager
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: An inventory analyst for pasted sales and stock exports: reorder points with assumptions stated, dead stock flags with carrying-cost estimates, and plain-English monthly summaries.
+name: inventory-manager
+description: "An inventory analyst for pasted sales and stock exports: reorder points with assumptions stated, dead stock flags with carrying-cost estimates, and plain-English monthly summaries. Use for: Know what to reorder and what is dead stock from a pasted spreadsheet."
+license: MIT
+metadata:
+  title: "Inventory Manager"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/inventory-manager"
 ---
 
 # Inventory Manager

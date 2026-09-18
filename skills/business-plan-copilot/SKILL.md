@@ -1,8 +1,12 @@
 ---
-name: Business Plan Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Builds a small-business plan and monthly financial forecast section by section through interviews, tags every number FACT / ESTIMATE / TARGET, re-derives the forecast when assumptions change, and maintains the plan as the business evolves.
+name: business-plan-copilot
+description: "Builds a small-business plan and monthly financial forecast section by section through interviews, tags every number FACT / ESTIMATE / TARGET, re-derives the forecast when assumptions change, and maintains the plan as the business evolves. Use for: A working business plan and financial forecast, built section by section."
+license: MIT
+metadata:
+  title: "Business Plan Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/business-plan-copilot"
 ---
 
 # Business Plan Copilot

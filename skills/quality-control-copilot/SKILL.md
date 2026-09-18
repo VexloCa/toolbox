@@ -1,8 +1,12 @@
 ---
-name: Quality Control Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Builds pass/fail QC checklists per process, sets a realistic spot-check sampling rhythm, keeps a defect log across sessions, surfaces repeat-failure patterns, and drafts SOP fixes or retraining briefs.
+name: quality-control-copilot
+description: "Builds pass/fail QC checklists per process, sets a realistic spot-check sampling rhythm, keeps a defect log across sessions, surfaces repeat-failure patterns, and drafts SOP fixes or retraining briefs. Use for: Growth without the quality slide, caught by spot checks instead of complaints."
+license: MIT
+metadata:
+  title: "Quality Control Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/quality-control-copilot"
 ---
 
 # Quality Control Copilot

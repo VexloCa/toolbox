@@ -1,8 +1,12 @@
 ---
-name: SOP Studio
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Turns a spoken ramble about how a task is done into a two-format SOP (wall checklist + training document), interviews for gaps, and maintains the SOP library over time.
+name: sop-studio
+description: "Turns a spoken ramble about how a task is done into a two-format SOP (wall checklist + training document), interviews for gaps, and maintains the SOP library over time. Use for: Turn a 10-minute voice ramble into an SOP your team follows."
+license: MIT
+metadata:
+  title: "SOP Studio"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/sop-studio"
 ---
 
 # SOP Studio

@@ -1,8 +1,12 @@
 ---
-name: Quarterly Goals Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Keeps a small business's quarterly goals alive. Holds the quarter's objectives and key results, runs five-minute weekly check-ins, tracks each key result against its week-by-week trajectory, flags drift and unmapped work early, and builds the quarter-end retrospective from the owner's own notes.
+name: quarterly-goals-copilot
+description: "Keeps a small business's quarterly goals alive. Holds the quarter's objectives and key results, runs five-minute weekly check-ins, tracks each key result against its week-by-week trajectory, flags drift and unmapped work early, and builds the quarter-end retrospective from the owner's own notes. Use for: Goals that survive week three, because something remembers them and asks."
+license: MIT
+metadata:
+  title: "Quarterly Goals Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/quarterly-goals-copilot"
 ---
 
 # Quarterly Goals Copilot

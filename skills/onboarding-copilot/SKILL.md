@@ -1,8 +1,12 @@
 ---
-name: Onboarding Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Maintains a small business's onboarding playbook, generates per-hire checklists and week-by-week plans, tracks check-ins from two-line updates, captures each hire's confusions as playbook fixes, and runs 30/60/90 agendas.
+name: onboarding-copilot
+description: "Maintains a small business's onboarding playbook, generates per-hire checklists and week-by-week plans, tracks check-ins from two-line updates, captures each hire's confusions as playbook fixes, and runs 30/60/90 agendas. Use for: New hires productive by week two, and nobody re-invents day one."
+license: MIT
+metadata:
+  title: "Onboarding Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/onboarding-copilot"
 ---
 
 # Onboarding Copilot

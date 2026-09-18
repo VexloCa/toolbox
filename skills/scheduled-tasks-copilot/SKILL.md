@@ -1,8 +1,12 @@
 ---
-name: Scheduled Tasks Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Manages a small business's roster of scheduled AI tasks. Budgets task slots against the plan limit, writes task prompts built for unattended runs, logs whether each run was acted on, and runs a monthly keep, tighten, kill review so stale tasks stop holding slots.
+name: scheduled-tasks-copilot
+description: "Manages a small business's roster of scheduled AI tasks. Budgets task slots against the plan limit, writes task prompts built for unattended runs, logs whether each run was acted on, and runs a monthly keep, tighten, kill review so stale tasks stop holding slots. Use for: A small roster of scheduled AI tasks that earn their slots, reviewed monthly so the noise gets retired."
+license: MIT
+metadata:
+  title: "Scheduled Tasks Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/scheduled-tasks-copilot"
 ---
 
 # Scheduled Tasks Copilot

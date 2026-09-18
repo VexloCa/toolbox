@@ -1,8 +1,12 @@
 ---
-name: Bookkeeping Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A bookkeeper's assistant for categorizing transactions, catching anomalies, reconciling totals, and running a consistent month-end close.
+name: bookkeeping-copilot
+description: "A bookkeeper's assistant for categorizing transactions, catching anomalies, reconciling totals, and running a consistent month-end close. Use for: Books that stay categorized and reconciled monthly without dread."
+license: MIT
+metadata:
+  title: "Bookkeeping Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/bookkeeping-copilot"
 ---
 
 # Bookkeeping Copilot

@@ -6,7 +6,7 @@
 
 ## The problem
 
-Most small business owners know they should be marketing consistently, but every quarter starts the same way: no plan, no calendar, just whatever channel feels urgent that week. Agencies are too expensive and generic templates ignore your actual budget and hours. This gives you a realistic, month-by-month plan built around what you can actually execute: not a wishlist.
+Most small business owners know they should be marketing consistently, but every quarter starts the same way: no plan, no calendar, just whatever channel feels urgent that week. Agencies are too expensive, and every 90 day marketing plan template you download ignores your actual budget and hours; the startup versions assume a team you don't have. This replaces the template: a realistic, month-by-month plan built around what you can actually execute, not a wishlist.
 
 ## The prompt
 

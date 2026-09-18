@@ -53,7 +53,7 @@ assume. Prioritize by real weekly hours saved, not by how impressive the
 automation sounds.
 ```
 
-Run this before any tool purchase; the [founder's strategy playbook](/blog/ai-for-small-business-strategy-playbook) explains how to attach an ROI number to what it finds.
+Run this before any tool purchase; the [founder's strategy playbook](/blog/ai-for-small-business-strategy-playbook) explains how to attach an ROI number to what it finds. Once a process makes the shortlist, the build-vs-buy call for it is walked through in [build vs. buy for small-business AI](/blog/build-vs-buy-ai-small-business).
 
 ## How to use it
 

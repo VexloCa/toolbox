@@ -1,8 +1,12 @@
 ---
-name: Referral Program Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Runs a small business's referral program as a standing system. Tracks who was asked and what happened, surfaces ask-ready clients at the right moment, drafts asks and forwardable blurbs in the house voice, keeps the thank-you ledger, and reads where referrals concentrate.
+name: referral-program-copilot
+description: "Runs a small business's referral program as a standing system. Tracks who was asked and what happened, surfaces ask-ready clients at the right moment, drafts asks and forwardable blurbs in the house voice, keeps the thank-you ledger, and reads where referrals concentrate. Use for: Referrals become a system with a memory, not a thing you remember to do twice a year."
+license: MIT
+metadata:
+  title: "Referral Program Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/referral-program-copilot"
 ---
 
 # Referral Program Copilot

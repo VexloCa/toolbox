@@ -1,8 +1,12 @@
 ---
-name: Customer Support Autopilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: A support drafting assistant that triages incoming customer messages and writes ready-to-send replies in your brand voice.
+name: customer-support-autopilot
+description: "A support drafting assistant that triages incoming customer messages and writes ready-to-send replies in your brand voice. Use for: Answer 80% of support emails in your brand voice."
+license: MIT
+metadata:
+  title: "Customer Support Autopilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/customer-support-autopilot"
 ---
 
 # Customer Support Autopilot

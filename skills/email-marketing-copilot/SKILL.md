@@ -1,8 +1,12 @@
 ---
-name: Email Marketing Copilot
-version: 1.0
-author: Vexlo (vexlo.ca)
-description: Runs a small business's email program as a standing job. Learns the list, segments, and voice once, proposes monthly plans from the calendar and the results log, drafts campaigns with subject variants, logs one-line results as evidence, and guards cadence and repetition so the list's trust survives.
+name: email-marketing-copilot
+description: "Runs a small business's email program as a standing job. Learns the list, segments, and voice once, proposes monthly plans from the calendar and the results log, drafts campaigns with subject variants, logs one-line results as evidence, and guards cadence and repetition so the list's trust survives. Use for: A monthly email program that remembers what worked, instead of campaign amnesia."
+license: MIT
+metadata:
+  title: "Email Marketing Copilot"
+  version: "1.0"
+  author: "Vexlo (vexlo.ca)"
+  homepage: "https://vexlo.ca/toolbox/email-marketing-copilot"
 ---
 
 # Email Marketing Copilot

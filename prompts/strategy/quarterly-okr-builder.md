@@ -78,7 +78,7 @@ ANTI-PATTERN CHECK: You listed "redesign the small-space product pages" as a key
 
 ## Pro tip
 
-If a key result would still be true even when the business had a bad quarter, it's not tight enough. A good key result should be impossible to fake with busywork.
+If a key result would still be true even when the business had a bad quarter, it's not tight enough. A good key result should be impossible to fake with busywork. And once the set is written, the failure mode moves: goals die from inattention in week three, not from bad wording in week one. The [Quarterly Goals Copilot](/toolbox/quarterly-goals-copilot) skill is the standing check-in that keeps this hour's work alive for the other twelve weeks.
 
 ---
 

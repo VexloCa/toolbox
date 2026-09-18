@@ -83,7 +83,7 @@ GAP, POLICY UNDEFINED: "Do you use products safe for dogs with skin allergies?" 
 
 ## Pro tip
 
-Run this once a quarter using only the last 90 days of inbox questions: new gaps and new frequently-asked questions surface as your product or policies change, and a stale FAQ is worse than no FAQ.
+Run this once a quarter using only the last 90 days of inbox questions: new gaps and new frequently-asked questions surface as your product or policies change, and a stale FAQ is worse than no FAQ. When the quarterly rebuild starts feeling like archaeology, the standing version is the [Knowledge Base Copilot](/toolbox/knowledge-base-copilot) skill: it logs the questions as they arrive, so the help section tends itself between quarters.
 
 ---
 
