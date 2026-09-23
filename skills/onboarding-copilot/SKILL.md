@@ -48,3 +48,7 @@ Then draft the house playbook v1 from the answers and confirm it before the firs
 - **Per-hire kit:** three labeled documents, each standalone and printable.
 - **Tracking update:** the logged lines echoed, flags with ages, any plan adjustment proposed.
 - **Checkpoint agenda:** one page: evidence, flagged items, agreements from last time, space for new agreements.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/onboarding-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

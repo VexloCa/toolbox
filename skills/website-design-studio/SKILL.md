@@ -48,3 +48,7 @@ Summarize the answers back before starting.
 - **Page copy:** labeled sections in page order, copy ready to paste, with [ADD REAL PROOF HERE] markers where inputs are missing, followed by a short "Design notes" list and an "Accessibility checklist" for that page.
 - **Page reviews:** section-by-section table or list (Section / Verdict / Why / Rewrite), then "Top 3 changes by impact."
 - **Microcopy:** grouped by location, each item ready to paste, character counts shown for meta items.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/website-design-studio): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

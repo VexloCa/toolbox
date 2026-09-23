@@ -46,3 +46,7 @@ Confirm the answers in a short summary before building the inventory.
 - **Session open:** anything on the watch list within 45 days, or "watch list clear."
 - **Price-change report:** affected lines with before → after, then new monthly and annual totals.
 - **Action drafts:** the email text only, ready to paste, under 120 words.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/ai-spend-auditor): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

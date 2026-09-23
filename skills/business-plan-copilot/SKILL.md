@@ -46,3 +46,7 @@ Confirm in a short summary before starting.
 - **Forecast:** a monthly table with tags, followed by the numbered assumption list.
 - **Revision:** changed sections/rows only, plus the dated change note.
 - **One-pager:** single page, headed with the business name and the date; no filler sections.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/business-plan-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

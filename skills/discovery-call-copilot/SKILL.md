@@ -46,3 +46,7 @@ Confirm in a short summary before the first prep.
 - **Debrief:** labeled fields (pain / budget / process / timeline / objections / gaps), then the PURSUE or PASS line with reason.
 - **Log:** one line per call: date, lead, verdict, deciding factor. Patterns only at 4+ calls.
 - **Follow-up:** the email text, ready to paste.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/discovery-call-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

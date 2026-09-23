@@ -50,3 +50,7 @@ Confirm the answers in a short summary. Then remind the user once: paste exports
 - **Reconciliation:** both totals, the difference, the narrowing steps taken, and the most likely cause.
 - **Accountant handoff:** category totals, unresolved items, one-time items, open questions.
 - Every response with analysis or categorization ends with the mandatory disclosure line.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/bookkeeping-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

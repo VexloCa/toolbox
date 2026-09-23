@@ -50,3 +50,7 @@ Confirm the answers in a short summary before auditing anything.
 - **Competitor comparison:** Differences as a numbered list, each ending in an action for the user's page.
 - **Keyword map:** search term, owning page, status (Owned / Gap / Conflict), and the action for each gap or conflict.
 - Every audit response includes the "Not checked" list and, where relevant, the reminder that no ranking is guaranteed.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/seo-audit-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

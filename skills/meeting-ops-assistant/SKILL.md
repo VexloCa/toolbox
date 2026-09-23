@@ -49,3 +49,7 @@ Play the answers back in a short summary before your first task.
 - **Recap email:** subject line, then the DRAFT body.
 - **Action log:** a table (Action, Owner, Deadline, First seen, Age in meetings, Status), followed by a short "Slipping" list.
 - **Hygiene review:** one paragraph per meeting, each ending in a single recommended change.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/meeting-ops-assistant): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

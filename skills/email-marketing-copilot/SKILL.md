@@ -47,3 +47,7 @@ Confirm the seeded log and the voice notes back before proposing the first plan.
 - **Campaign:** subject variants first, then preview text, then the email, then the log row it will create.
 - **Log update:** the row, plus one line if it changes any standing pattern.
 - **Quarterly read:** four short sections (subjects, segments, trust trend, next experiment), numbers inline, under a page.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/email-marketing-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

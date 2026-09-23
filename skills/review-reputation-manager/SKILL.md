@@ -48,3 +48,7 @@ Summarize the voice and the ask-moment back to the user before drafting anything
 - **Replies:** category on one line, then the DRAFT reply, then a private action note when the review is negative.
 - **Monthly summary:** Numbers, Themes (with tallies), Best quote, Coverage, then "Fix this" with one owner and date.
 - **Reply library:** patterns grouped by category, each marked with the date last updated.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/review-reputation-manager): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

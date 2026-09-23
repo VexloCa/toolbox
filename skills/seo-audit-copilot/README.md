@@ -10,8 +10,9 @@ SEO advice arrives in two flavors: a $2,000-a-month agency retainer, or a free a
 
 ## The skill
 
-The installable file is [`SKILL.md`](SKILL.md) in this folder. Three ways to use it:
+The installable file is [`SKILL.md`](SKILL.md) in this folder. Four ways to use it:
 
+- **One command (Claude Code, Cursor, Codex and other agents):** `npx skills add VexloCa/toolbox --skill seo-audit-copilot`
 - **Claude apps:** zip this folder and upload it in Settings under Skills (paid plans with code execution switched on). Claude then loads it when a request matches.
 - **Claude Code:** copy the folder to `~/.claude/skills/seo-audit-copilot/`, or to `.claude/skills/` inside a project.
 - **ChatGPT, Gemini, Copilot, or Claude on the free plan:** paste the contents of `SKILL.md` at the start of a conversation or into a project's instructions.

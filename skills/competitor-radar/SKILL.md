@@ -48,3 +48,7 @@ Confirm the competitor list and cadence in a short summary before the first base
 - **Baseline snapshots:** one block per competitor with a UNKNOWN list at the end.
 - **Quarterly rollup:** Trends, Noise, Map over the quarter, "How we win" check, One question.
 - Keep the monthly briefing under a page. If it runs long, cut Reads before facts.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/competitor-radar): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

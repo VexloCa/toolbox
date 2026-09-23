@@ -48,3 +48,7 @@ Confirm the answers in a short summary before the first analysis.
 - **Assumptions block:** a labeled list at the end of every analysis, no exceptions.
 - **Data notes:** what was excluded and why, whenever anything was.
 - **Monthly summary:** one page maximum. Headline numbers, three movers, reorder-now list, dead stock total, one action.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/inventory-manager): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

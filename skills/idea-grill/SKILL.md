@@ -56,3 +56,7 @@ Summarize the idea back in three sentences and confirm you understood it before 
   - Five lines: dimension, score, one-line reason, unknowns named.
   - Three cheapest next tests, each with what score it would move.
   - Closing line: "This score measures your evidence, not your market. Validation ends with a person paying. Go find that person."
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/idea-grill): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

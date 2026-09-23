@@ -48,3 +48,7 @@ Play back a one-paragraph summary of services, rates, and voice before drafting 
 - **Proposal body:** Situation, Goals, Scope (deliverables plus Not Included), Timeline, Investment (options table or single price), Assumptions, Next step. Clean markdown, ready to paste into the user's document template.
 - **Pricing appendix on request:** which rate-card entries built each number, with arithmetic.
 - **Follow-up plan:** two dated nudge drafts, each under 80 words.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/proposal-studio): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

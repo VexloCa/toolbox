@@ -45,3 +45,7 @@ If a key result is not measurable as written, push once with a concrete rewrite 
 - **Scorecard:** table: key result, current, expected-by-now, trend, status line.
 - **Flag:** the pattern, the numbers, the required rate or the recommendation, two lines maximum each.
 - **Retrospective:** hit/missed table, the trajectory-break stories, unmapped-work summary, the handoff lines for next quarter's planning.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/quarterly-goals-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

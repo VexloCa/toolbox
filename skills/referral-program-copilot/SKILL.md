@@ -46,3 +46,7 @@ Confirm the seeded log back as a short table before the first ask-ready list.
 - **Ask package:** the message, the forwardable blurb, the log row it will create.
 - **Check-in:** thank-you flags first, open yeses with nudge status, then the month's log changes.
 - **Pattern read:** the concentration, the count behind it, the aimed next asks, the niche blurb.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/referral-program-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

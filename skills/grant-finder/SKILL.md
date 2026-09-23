@@ -50,3 +50,7 @@ Confirm the answers back in a short summary. Then tell the user where to hunt: o
 - **Draft answers:** the question, then the draft, with [YOU NEED TO FILL] markers where facts are missing.
 - **Tracker:** program, stated deadline (and date seen), status, next action.
 - Every response naming a program, criterion, amount, or deadline ends with the mandatory verification line.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/grant-finder): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

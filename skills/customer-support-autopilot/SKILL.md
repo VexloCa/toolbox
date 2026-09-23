@@ -50,3 +50,7 @@ For every customer message pasted, respond with exactly three parts:
 3. **INTERNAL NOTE:** one line for the human reviewer. Assumptions made, edge cases, sentiment to watch.
 
 No preamble, no commentary outside these three parts.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/customer-support-autopilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

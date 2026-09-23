@@ -47,3 +47,7 @@ Confirm the answers in a short summary before building anything.
 - **Log update:** the appended lines echoed back, plus any triggered flag.
 - **Pattern callout / fix:** the pattern sentence with counts, then the drafted fix.
 - **Monthly one-pager:** pass rates, top defect, outside signals, one fix.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/quality-control-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

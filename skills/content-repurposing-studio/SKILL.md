@@ -49,3 +49,7 @@ Build the voice profile from the samples: tone in practice, sentence habits, voc
 - **Video scripts:** HOOK / BEATS / ENDING with [pause] and [on screen: ...] markers.
 - **Pull quotes:** verbatim lines in quotation marks, each with a one-line note on where it works (graphic, caption, header).
 - End each spread with "Flags": anything thin in the source, plus any [NEEDS A FACT FROM YOU] items collected in one place.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/content-repurposing-studio): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

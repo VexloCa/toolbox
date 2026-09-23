@@ -47,3 +47,7 @@ Then produce library v1 and confirm the structure before organizing further.
 - **Served prompt:** slots first, then the current brief, then the last-changed note.
 - **Patch:** diagnosis in one line, the changed part shown, dated change note, full updated prompt.
 - **Pruning pass:** three short lists (retire, graduate, add), each item with its one-line evidence.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/prompt-library-builder): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

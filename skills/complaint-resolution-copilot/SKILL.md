@@ -48,3 +48,7 @@ Confirm the policy back as a short list before handling the first complaint.
 - **Check-in:** overdue promises first, then due-today, then kept-since-last-time; monthly version appends the pattern review with counts.
 - **Escalation:** the "phone call" verdict with 3-5 talking points and the do-not-write list.
 - **Policy exception:** the gap, the ask, and after approval, the logged exception in one line.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/complaint-resolution-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

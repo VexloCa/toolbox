@@ -48,3 +48,7 @@ Then show the first 13-week projection with every assumption listed, and confirm
 - **Crunch flag:** week, depth vs sleep number, drivers, two levers with named targets.
 - **What-if:** the two projections side by side in words, the week it bites, the assumption that matters most.
 - **Monthly one-pager:** position, quarter ahead, flags, trend note; under 200 words.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/cash-flow-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

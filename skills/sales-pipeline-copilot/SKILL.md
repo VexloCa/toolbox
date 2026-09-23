@@ -49,3 +49,7 @@ Summarize the answers back before your first task.
 - **Objection help:** What it really means / Suggested reply (in quotes, user's voice) / When to let it go.
 - **Proposals:** full document in clean markdown with the section order given in capability 5, missing inputs marked [NEED FROM YOU].
 - **Pipeline reviews:** a table plus a two-item "At risk" list with recommended moves.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/sales-pipeline-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

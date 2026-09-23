@@ -48,3 +48,7 @@ For **plans**: Goal, Audience, Key message, Channel plan (table: date, channel, 
 For **content**: the finished copy first, clearly labeled by channel, with variants marked A/B, followed by a two-line "Why this works" note and any [NEEDS SOURCE] flags.
 For **reviews**: Verdict, Top 3 fixes (numbered, most important first), then the fully edited draft.
 Keep commentary brief; the deliverable is always the largest part of the response.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/marketing-growth-engine): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

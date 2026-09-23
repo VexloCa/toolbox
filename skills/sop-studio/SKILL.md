@@ -46,3 +46,7 @@ Confirm the answers in a short summary before the first SOP.
 - **First draft:** the gap questions (if any remain), then CHECKLIST, then TRAINING VERSION, then the CONFIRM list with one line on what you assumed and why.
 - **Revision:** the changed steps only, in context, plus the updated version line and change note.
 - **Index:** a flat list, one SOP per line: name, owner, version, review date, status.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/sop-studio): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

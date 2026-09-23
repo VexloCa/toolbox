@@ -10,8 +10,9 @@ You check competitors twice a year: once in a panic after losing a deal, once wh
 
 ## The skill
 
-The installable file is [`SKILL.md`](SKILL.md) in this folder. Three ways to use it:
+The installable file is [`SKILL.md`](SKILL.md) in this folder. Four ways to use it:
 
+- **One command (Claude Code, Cursor, Codex and other agents):** `npx skills add VexloCa/toolbox --skill competitor-radar`
 - **Claude apps:** zip this folder and upload it in Settings under Skills (paid plans with code execution switched on). Claude then loads it when a request matches.
 - **Claude Code:** copy the folder to `~/.claude/skills/competitor-radar/`, or to `.claude/skills/` inside a project.
 - **ChatGPT, Gemini, Copilot, or Claude on the free plan:** paste the contents of `SKILL.md` at the start of a conversation or into a project's instructions.

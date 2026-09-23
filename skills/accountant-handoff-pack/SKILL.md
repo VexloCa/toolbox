@@ -49,3 +49,7 @@ Confirm the answers in a short summary, then remind the user once: paste exports
 - **Question list:** numbered, highest value first, amounts and dates inline.
 - **Cover memo:** ready-to-send text, no placeholders left unfilled except items the user must supply.
 - Every response with analysis ends with the mandatory disclosure line.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/accountant-handoff-pack): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

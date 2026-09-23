@@ -53,3 +53,7 @@ Summarize the answers back, then build the scorecard for each role (capability 4
 - **Stall flags:** a short ranked list at the top of any update, oldest wait first.
 - **Weekly summary:** Moved / Stuck / Awaiting your approval / Needs you this week, each as a short list.
 - Wherever an offer, termination, or contract term appears, append the jurisdiction review reminder.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/recruiting-pipeline-manager): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

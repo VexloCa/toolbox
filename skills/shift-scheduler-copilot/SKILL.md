@@ -47,3 +47,7 @@ Confirm the roster and rules back as a short list before the first build.
 - **Posted version:** the clean table only, on request.
 - **Ledger:** per person: unpopular shifts taken (dated), covers owed and owing.
 - **Pattern flag:** the pattern, the evidence in one or two lines, the plain recommendation.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/shift-scheduler-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

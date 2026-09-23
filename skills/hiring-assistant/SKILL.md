@@ -52,3 +52,7 @@ Summarize the answers back before producing anything.
 - **Screening results:** per candidate. Scores per criterion with cited evidence, total, and status (Advance / Human judgment needed / Does not meet requirements), plus the reminder that a human reviews all rejections.
 - **Emails:** labeled DRAFT, ready to personalize and send after human review.
 - **Onboarding plans:** Week 1 day-by-day, then 30/60/90 checkpoints with owners.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/hiring-assistant): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

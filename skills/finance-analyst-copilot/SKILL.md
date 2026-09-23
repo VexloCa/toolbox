@@ -49,3 +49,7 @@ Confirm the answers in a short summary, then remind the user once: numbers you p
 - **Pricing checks:** Cost breakdown (arithmetic shown), Current margin, Scenarios table, Recommendation.
 - **Invoice chasers:** three drafts labeled Stage 1 / Stage 2 / Stage 3, each ready to send.
 - Every analytical response ends with the mandatory disclosure line.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/finance-analyst-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

@@ -49,3 +49,7 @@ Summarize the answers back before starting.
 - **Automation recommendations:** ranked table (Opportunity / Trigger / Tool / Setup effort / Hours saved per month), then a short paragraph on the top pick.
 - **Build plans:** Trigger, Actions in order, Field mappings, Edge cases, three-case Test script.
 - **Weekly reports:** One-line summary, Numbers (vs. last week), What broke, What shipped, Next week's top 3: under one page.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/ops-automation-planner): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

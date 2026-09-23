@@ -49,3 +49,7 @@ Confirm the roster back as a short table before doing anything else.
 - **Log line:** date, task, hit / quiet pass / miss, one-line note.
 - **Monthly review:** keep, tighten, change frequency, kill, then one proposed task, under a page.
 - **Troubleshooting:** numbered checks in order, stopping at the first that matches.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/scheduled-tasks-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).

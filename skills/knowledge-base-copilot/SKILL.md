@@ -47,3 +47,7 @@ Confirm the seeded article list back as a short index before logging begins.
 - **Draft:** the article, [CONFIRM] marks visible, under 300 words unless asked.
 - **Change sweep:** affected articles as a checklist, exact edit per article.
 - **Monthly read:** four short sections (top questions, working, failing, repeat-flag with suspected cause), counts inline, under a page.
+
+---
+
+From the [Vexlo Toolbox](https://vexlo.ca/toolbox/knowledge-base-copilot): free Claude skills and AI prompts for small business, with a worked example for every item at [vexlo.ca/toolbox](https://vexlo.ca/toolbox).
