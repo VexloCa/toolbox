@@ -63,7 +63,7 @@ OUTPUT FORMAT: Score breakdown table, fit summary, recommended action, short eno
 ## How to use it
 
 1. Run Part 1 once with a real conversation with yourself about your best and worst customers: the sharper the contrast, the better the rubric.
-2. Save the resulting rubric as a reusable Claude Project or a custom instruction (in ChatGPT, a custom GPT or saved instruction) so every new lead is scored against the exact same standard without re-pasting it each time.
+2. Save the resulting rubric as a reusable Claude Project or a custom instruction (in ChatGPT, a Project or saved instruction) so every new lead is scored against the exact same standard without re-pasting it each time.
 3. Whenever a new lead comes in, paste its raw information into Part 2 inside that same Project/custom instruction.
 4. Sort your day's leads by score before making calls: hot leads first, always.
 5. Revisit the rubric every quarter or after a batch of leads convert or don't, and adjust point values based on what you're actually seeing.

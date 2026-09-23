@@ -19,7 +19,7 @@ The installable file is [`SKILL.md`](SKILL.md) in this folder. Four ways to use 
 
 ## How to use it
 
-1. Open a new Claude Project (or a Custom GPT in ChatGPT) dedicated to support.
+1. Open a new Claude Project (or a ChatGPT Project) dedicated to support.
 2. Paste the block above into the Project's Custom Instructions field.
 3. Fill in BUSINESS NAME, BUSINESS TYPE, OUR BRAND VOICE, and every policy section with your real, current policies. This is the part that determines accuracy, don't skip it.
 4. Each time a support message comes in, paste the raw email or chat text into the chat and let it triage and draft.
