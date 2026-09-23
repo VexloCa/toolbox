@@ -4,20 +4,20 @@ Free, MIT-licensed Claude skills, master prompts and workflows for running a sma
 
 Currently in the box: **35 agent skills, 97 master prompts, 4 workflows, 1 tool stack**.
 
-Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours.
+Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
 ## Install a skill
 
 1. **One command.** `npx skills add VexloCa/toolbox` lists every skill here and installs the ones you pick into Claude Code, Cursor, Codex and other coding agents. Add `--skill bookkeeping-copilot` to install a single skill.
-2. **Claude apps.** Download a skill folder from `skills/`, zip it, and upload it in Settings under Skills. Custom skills need a paid Claude plan with code execution switched on. Claude then uses the skill whenever a request matches its description.
+2. **Claude apps, any plan including Free.** Download a skill folder from `skills/`, zip it, then open Customize > Skills, click +, choose Create skill, then Upload a skill. Code execution has to be switched on in Settings > Capabilities. Claude then uses the skill whenever a request matches its description.
 3. **Claude Code by hand.** Copy the folder to `~/.claude/skills/<skill-name>/` for every project, or to `.claude/skills/` inside one project.
-4. **ChatGPT, Gemini, Copilot, or Claude on the free plan.** Open the skill's `SKILL.md`, copy everything, and paste it at the start of a conversation or into a project's instructions. The skill runs its setup questions once, then works from there.
+4. **ChatGPT, Gemini, or Copilot.** Open the skill's `SKILL.md`, copy everything, and paste it at the start of a conversation or into a project's instructions. The skill runs its setup questions once, then works from there.
 
 A skill is a set of instructions your assistant will follow, so read one before you install it, from this repo or any other. The free [Skill Check](https://vexlo.ca/skill-check) grades any skill file or GitHub link from A+ to F for prompt injection, data privacy and destructive actions.
 
 ## How this relates to Claude for Small Business
 
-Anthropic's Claude for Small Business plugin bundles workflows and app connectors for paid Claude plans. The skills here need no connectors: they work from what you paste or upload, in any assistant, and you can read and edit every line. Use them alongside the plugin, or on their own if you are not on a paid Claude plan.
+Anthropic's Claude for Small Business plugin bundles workflows and app connectors, and runs in Cowork on paid Claude plans. The skills here need no connectors: they work from what you paste or upload, in any assistant, and you can read and edit every line. Use them alongside the plugin, or on their own on any plan, Free included.
 
 ## Claude skills for small business
 
