@@ -52,6 +52,8 @@ client), name it in one honest paragraph before the map.
 
 The do-not list is what separates an audit from a sales pitch, and it is the part to read first. This prompt is the self-serve version of the assessment we run as a service: the [Vexlo AI Opportunity Audit](/audit) does the same mapping against your real numbers and workflows, with a human on the other end and a report your team can execute from.
 
+What a full [AI opportunity audit](/blog/ai-opportunity-audit) contains, what a paid one costs, and how to tell one from a sales pitch are covered in the guide.
+
 ## How to use it
 
 1. Copy the full prompt into Claude or ChatGPT and list your week honestly, boring parts included; the boring parts usually win.

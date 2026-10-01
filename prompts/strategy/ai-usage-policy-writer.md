@@ -48,6 +48,8 @@ policy in a P.S. rather than silently expanding the scope.
 
 The "what's encouraged" section going first is deliberate: a policy that opens with prohibitions teaches the team to hide their AI use, which is the actual worst outcome. Pair the finished page with the tool decisions themselves; the [SME AI Starter Stack](/toolbox/sme-ai-starter-stack) covers which tools deserve a seat, and this covers how the seats behave.
 
+Prefer to start from a filled-in page? The [AI policy template for a Canadian small business](/blog/ai-policy-template-small-business-canada) is the copy-and-paste version, with the Canadian rules it is built around.
+
 ## How to use it
 
 1. Copy the full prompt into Claude or ChatGPT and answer honestly, including the tools staff use that you never sanctioned.

@@ -55,6 +55,8 @@ automation sounds.
 
 Run this before any tool purchase; the [founder's strategy playbook](/blog/ai-for-small-business-strategy-playbook) explains how to attach an ROI number to what it finds. Once a process makes the shortlist, the build-vs-buy call for it is walked through in [build vs. buy for small-business AI](/blog/build-vs-buy-ai-small-business).
 
+If the question is wider than automation, where AI pays across the whole business and where it would be a mistake, start with the guide to the [AI opportunity audit](/blog/ai-opportunity-audit).
+
 ## How to use it
 
 1. Block 15 minutes and answer the interview questions honestly, including the boring, embarrassing repetitive stuff. That's usually where the biggest wins hide.
