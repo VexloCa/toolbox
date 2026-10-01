@@ -56,6 +56,8 @@ instead of picking one. Write answers a customer could read and immediately
 act on, no vague reassurance without a concrete next step.
 ```
 
+The finished list is also the knowledge base an AI receptionist answers from. What those cost in Canada, and when one pays, is in [AI receptionist for small business in Canada](/blog/ai-receptionist-small-business-canada).
+
 ## How to use it
 
 1. Export or copy 20-50 real customer questions from your inbox, chat tool, or CRM. Don't clean them up first, raw is fine.
