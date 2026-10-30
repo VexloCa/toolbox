@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **51 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **52 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -68,6 +68,7 @@ Anthropic's Claude for Small Business plugin bundles workflows and app connector
 | [Quality Control Copilot](skills/quality-control-copilot) | Light setup | Growth without the quality slide, caught by spot checks instead of complaints |
 | [Prompt Library Builder](skills/prompt-library-builder) | Light setup | One maintained prompt library the whole team uses, instead of six private note files |
 | [Scheduled Tasks Copilot](skills/scheduled-tasks-copilot) | Light setup | A small roster of scheduled AI tasks that earn their slots, reviewed monthly so the noise gets retired |
+| [Vendor Contract Reviewer](skills/vendor-contract-reviewer) | Light setup | Every software, lease and supplier contract read before you sign it, with the auto-renewal, the exit terms and the price escalator pulled out onto one page and the questions to send back |
 | [Cyber Incident Response Planner](skills/cyber-incident-response-planner) | Light setup | A one-page plan for the morning your email, your files or your payments are compromised, with who calls whom in the first hour, what the privacy law requires you to report, and the three fixes that make the plan rarely needed |
 | [Website Accessibility Copilot](skills/accessibility-audit-copilot) | Light setup | Your website's pages, PDFs and forms checked against the WCAG rules Ontario's AODA points to, with the fixes written in plain words for whoever edits your site |
 
