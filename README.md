@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **50 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **51 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -95,6 +95,7 @@ Anthropic's Claude for Small Business plugin bundles workflows and app connector
 | [Onboarding Copilot](skills/onboarding-copilot) | Light setup | New hires productive by week two, and nobody re-invents day one |
 | [Shift Scheduler Copilot](skills/shift-scheduler-copilot) | Light setup | The weekly schedule builds itself from memory; you make the judgment calls |
 | [Job Posting Compliance Checker](skills/job-posting-compliance-checker) | Light setup | Every job ad checked against Ontario's 2026 posting rules before it goes live, with the pay range, the AI line and the vacancy statement where the law wants them |
+| [Health and Safety Policy Writer](skills/health-and-safety-policy-writer) | Light setup | The written health and safety policy, the violence and harassment policies and the posting checklist an Ontario workplace with six or more workers has to have, drafted from how your shop runs |
 
 ### Strategy & Planning
 
