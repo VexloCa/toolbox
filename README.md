@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **36 agent skills, 97 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **36 agent skills, 98 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -133,6 +133,7 @@ Copy-paste prompts with [SQUARE BRACKET] placeholders. They work in any assistan
 | [Upsell & Cross-Sell Finder](prompts/sales/upsell-opportunity-finder.md) | No-code | Revenue sitting in your current client list, mapped |
 | [Win/Loss Analyzer](prompts/sales/win-loss-analyzer.md) | No-code | Learn why deals really close or die, from patterns not hunches |
 | [Win-Back Campaign Writer](prompts/sales/win-back-campaign-writer.md) | No-code | A 3-touch sequence that brings lapsed customers back without begging |
+| [RFP Go/No-Go Scorer](prompts/sales/rfp-go-no-go-scorer.md) | No-code | A twenty-minute decision on whether a tender or RFP is worth the forty hours it takes to answer, scored on the ten things that decide it, with the outline of the response if the answer is go |
 
 ### Customer Support
 
