@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **48 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **49 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -82,6 +82,7 @@ Anthropic's Claude for Small Business plugin bundles workflows and app connector
 | [Cash Flow Copilot](skills/cash-flow-copilot) | Light setup | The cash crunch flagged six weeks out, while it is still a decision instead of an emergency |
 | [Tariff Impact Analyzer](skills/tariff-impact-analyzer) | Light setup | A product-by-product read of what this month's tariffs do to your landed cost and margin, and the three moves that protect the most dollars |
 | [Payroll Prep Copilot](skills/payroll-prep-copilot) | Light setup | A payroll month that runs on a checklist instead of memory, with the CRA remittance date, the T4 deadline and the change-of-status paperwork all in one place |
+| [Loan Application Prep](skills/loan-application-prep) | Light setup | A lender-ready package, from the one-page business summary to the cash-flow forecast, assembled in a week instead of a quarter |
 | [Payment Fraud Screener](skills/payment-fraud-screener) | Light setup | A two-minute check on every payment request that changes banking details, adds a new payee or arrives in a hurry, plus the written rule your staff follow when you're away |
 
 ### HR & Hiring
