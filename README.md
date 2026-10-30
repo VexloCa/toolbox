@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **53 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **53 agent skills, 102 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -188,6 +188,7 @@ Copy-paste prompts with [SQUARE BRACKET] placeholders. They work in any assistan
 | [Process Bottleneck Finder](prompts/operations/process-bottleneck-finder.md) | No-code | Find the step that slows everything and what fixing it is worth |
 | [Risk Register Builder](prompts/operations/risk-register-builder.md) | No-code | The ten risks that could actually hurt you, ranked, with responses |
 | [Scheduled Task Builder](prompts/operations/scheduled-task-builder.md) | No-code | A recurring chore turned into a scheduled AI task that runs unattended and reports only what matters |
+| [Privacy Policy Drafter](prompts/operations/privacy-policy-drafter.md) | No-code | A plain-language privacy policy that describes what your business collects, why, who sees it and how long you keep it, drafted from an interview so it matches how you work, and ready for a lawyer's hour instead of a lawyer's week |
 
 ### Finance & Admin
 
