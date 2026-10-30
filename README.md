@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **49 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **50 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -43,6 +43,7 @@ Anthropic's Claude for Small Business plugin bundles workflows and app connector
 | [Proposal Studio](skills/proposal-studio) | Light setup | Proposals in your voice and format, out the same day |
 | [Discovery Call Copilot](skills/discovery-call-copilot) | Light setup | Walk into every discovery call prepared, walk out with a decision |
 | [Referral Program Copilot](skills/referral-program-copilot) | Light setup | Referrals become a system with a memory, not a thing you remember to do twice a year |
+| [Job Estimate Builder](skills/job-estimate-builder) | Light setup | A written estimate that goes out the same evening as the site visit, with the scope, the exclusions, the allowances, the deposit and the payment schedule a customer can't later say they misunderstood |
 
 ### Customer Support
 
