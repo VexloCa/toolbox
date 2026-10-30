@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **40 agent skills, 99 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **40 agent skills, 100 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -192,6 +192,7 @@ Copy-paste prompts with [SQUARE BRACKET] placeholders. They work in any assistan
 | [12-Month Revenue Forecast](prompts/finance/revenue-forecast-builder.md) | No-code | A month-by-month forecast built from your real pipeline, not wishes |
 | [Tax Season Prep Checklist](prompts/finance/tax-season-prep-checklist.md) | No-code | Walk into your accountant's office with everything they need, once |
 | [GST/HST Filing Prep](prompts/finance/gst-hst-filing-prep.md) | No-code | A filing-ready GST/HST package for your accountant, built in an evening instead of a lost weekend |
+| [Equipment Buy vs Lease](prompts/finance/equipment-buy-vs-lease.md) | No-code | A side-by-side of buying, financing, leasing and renting a piece of equipment over its working life, in cash out the door by month, with the questions your accountant needs to settle the tax side |
 
 ### HR & Hiring
 
