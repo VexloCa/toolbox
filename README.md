@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **40 agent skills, 98 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **40 agent skills, 99 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -154,6 +154,7 @@ Copy-paste prompts with [SQUARE BRACKET] placeholders. They work in any assistan
 | [Refund & Return Policy Writer](prompts/support/refund-policy-writer.md) | No-code | A policy that protects you without scaring buyers |
 | [SLA & Response Policy Writer](prompts/support/sla-policy-writer.md) | No-code | Service promises you can keep, written down |
 | [Support Reply Auditor](prompts/support/support-reply-auditor.md) | No-code | Ten sent replies graded against your policy and your voice, with the drift named |
+| [No-Show Reducer](prompts/support/no-show-reducer.md) | No-code | A reminder sequence, a plain-language late-cancellation policy and a rebooking message built for your business, so the empty 2 p.m. slot stops being a weekly event |
 
 ### Operations & Productivity
 
