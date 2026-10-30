@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **43 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **44 agent skills, 101 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -52,6 +52,7 @@ Anthropic's Claude for Small Business plugin bundles workflows and app connector
 | [Knowledge Base Copilot](skills/knowledge-base-copilot) | Light setup | A help section that answers this month's questions, not the ones from launch day |
 | [Customer Insights Copilot](skills/customer-insights-copilot) | Light setup | A running record of what customers keep saying, with the trend, the quotes, and the churn watch kept for you |
 | [AI Receptionist Script Writer](skills/ai-receptionist-script-writer) | Light setup | The greeting, the five call flows, the disclosure line and the hand-off rules for an AI phone receptionist, written before you sign up for one, and the $0 voicemail-and-text version to run first |
+| [Bilingual Reply Writer](skills/bilingual-reply-writer) | Light setup | Customer replies, notices and web copy in Canadian French and English that say the same thing in the same tone, with your product names and terms handled the same way every time |
 
 ### Operations & Productivity
 
