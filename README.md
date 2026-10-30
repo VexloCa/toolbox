@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **37 agent skills, 98 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **38 agent skills, 98 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -30,6 +30,7 @@ Anthropic's Claude for Small Business plugin bundles workflows and app connector
 | [Content Repurposing Studio](skills/content-repurposing-studio) | Light setup | One blog post becomes ten pieces of content in your voice |
 | [SEO Audit Copilot](skills/seo-audit-copilot) | Light setup | A prioritized SEO fix list in plain English, no agency retainer |
 | [Email Marketing Copilot](skills/email-marketing-copilot) | Light setup | A monthly email program that remembers what worked, instead of campaign amnesia |
+| [AI Search Visibility Checker](skills/ai-search-visibility-checker) | Light setup | A monthly read of what ChatGPT, Perplexity, Copilot and Google's AI answers say when someone asks for a business like yours, and the five page fixes that change the answer |
 
 ### Sales & Lead Generation
 
