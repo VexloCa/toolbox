@@ -2,7 +2,7 @@
 
 Free, MIT-licensed Claude skills, master prompts and workflows for running a small business: bookkeeping, customer support, hiring, sales, marketing, operations. Written for owners, not developers, and built around the assistants you already pay for: Claude, ChatGPT, Copilot, Gemini.
 
-Currently in the box: **39 agent skills, 98 master prompts, 4 workflows, 1 tool stack**.
+Currently in the box: **40 agent skills, 98 master prompts, 4 workflows, 1 tool stack**.
 
 Every skill is a folder with a `SKILL.md` in the Agent Skills format, so it installs as a native Claude skill and also works pasted into any other assistant. Every item lives on [vexlo.ca/toolbox](https://vexlo.ca/toolbox) too, with a worked example and a one-click install prompt. Star the repo, clone what you need, and make it yours. New to skills? [Claude skills for small business](https://vexlo.ca/blog/claude-skills-for-small-business) explains what they are and how to install one on any plan.
 
@@ -94,6 +94,7 @@ Anthropic's Claude for Small Business plugin bundles workflows and app connector
 | [Competitor Radar](skills/competitor-radar) | Light setup | A monthly competitor briefing from what they publish publicly |
 | [Business Plan Copilot](skills/business-plan-copilot) | Light setup | A working business plan and financial forecast, built section by section |
 | [Quarterly Goals Copilot](skills/quarterly-goals-copilot) | Light setup | Goals that survive week three, because something remembers them and asks |
+| [Exit Readiness Planner](skills/exit-readiness-planner) | Light setup | An honest read of what a buyer or a successor would find in your business today, the eight things that move the price most, and a twelve-month plan to fix them before anyone looks |
 
 ## Master prompts
 
