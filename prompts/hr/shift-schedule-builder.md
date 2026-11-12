@@ -45,7 +45,7 @@ notes. If staffing cannot cover the shifts I listed, say so
 plainly and show the gap instead of thinning every shift.
 ```
 
-The risk list is the section owners skip and regret: the schedule that works on paper and dies on the first callout was a risk-list problem, not a scheduling problem. If the same conflicts show up week after week, that is a hiring or hours conversation, and the [Tough Conversation Scripts](/toolbox/tough-conversation-scripts) help with the version of it you keep postponing.
+Ontario's rest and hours rules, and what to put in the HARD RULES line to respect them, are in our guide to a [free shift schedule generator with AI](/blog/free-shift-schedule-generator-ai). The risk list is the section owners skip and regret: the schedule that works on paper and dies on the first callout was a risk-list problem, not a scheduling problem. If the same conflicts show up week after week, that is a hiring or hours conversation, and the [Tough Conversation Scripts](/toolbox/tough-conversation-scripts) help with the version of it you keep postponing.
 
 ## How to use it
 
